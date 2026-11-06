@@ -1,0 +1,15 @@
+Project Name: MCP Learning
+
+Programming Language: Python
+
+Framework: MCP Python SDK
+
+Current Topics:
+- MCP Fundamentals
+- MCP Server Setup
+- MCP Tools
+- MCP Resources
+
+Goal:
+Build AI applications that can access external
+tools and contextual information using MCP.
